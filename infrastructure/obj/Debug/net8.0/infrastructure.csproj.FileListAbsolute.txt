@@ -13,3 +13,4 @@ C:\Users\varsh\OneDrive\Documents\Project_Git\skinet\infrastructure\obj\Debug\ne
 C:\Users\varsh\OneDrive\Documents\Project_Git\skinet\infrastructure\obj\Debug\net8.0\refint\infrastructure.dll
 C:\Users\varsh\OneDrive\Documents\Project_Git\skinet\infrastructure\obj\Debug\net8.0\infrastructure.pdb
 C:\Users\varsh\OneDrive\Documents\Project_Git\skinet\infrastructure\obj\Debug\net8.0\ref\infrastructure.dll
+C:\Users\varsh\OneDrive\Documents\Project_Git\skinet\Infrastructure\obj\Debug\net8.0\infrastructure.sourcelink.json
